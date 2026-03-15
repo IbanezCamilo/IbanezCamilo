@@ -77,7 +77,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg0eXVhc2EycDhpN20yNndkZDlmN3h0enZsMTVjOTd3eXgzdzNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o15UlXS8oQPDZK6QoU/giphy.gif" width="120"/>
 
 _I'm always open to collaborating on interesting projects and meeting fellow developers._
 
