@@ -69,7 +69,7 @@ public class Developer {
 
 | Project | Description | Links |
 |---|---|---|
-| 📖 **Blog Literario** | Full-stack literary blog with JWT auth, RBAC and post moderation workflow. `Java` · `Spring Boot` · `React` · `MySQL` | `Soon` |
+| 📖 **Blog Literario** | Full-stack literary blog with JWT auth, RBAC and post moderation workflow. `Java` · `Spring Boot` · `React` · `PostgreSQL` | `Soon` |
 
 ---
 
