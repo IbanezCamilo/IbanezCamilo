@@ -1,6 +1,5 @@
 # Camilo Ibañez
 Backend Developer · Java/Spring Boot · Colombia
-📬 camilopastrana41@gmail.com
 
 ---
 
@@ -27,6 +26,7 @@ Currently developing a content moderation platform with custom role and permissi
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ---
 
 ## Projects
@@ -42,6 +42,6 @@ Content publishing platform with JWT authentication, RBAC-based moderation workf
 
 ## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-camilopastrana41-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilopastrana41@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilopastrana41@gmail.com)
 
 *Ship it, then improve it.*
