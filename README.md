@@ -31,13 +31,14 @@ Currently developing a content moderation platform with custom role and permissi
 
 ## Projects
 
-### Literary Blog *(in progress)*
+### Marginalia - Literary Blog *(in progress)*
 Content publishing platform with JWT authentication, RBAC-based moderation workflows, and protected API routes.
 
 **Technical challenge:** designing a three-tier permission hierarchy (admin / editor / reader) without external authorization libraries — role validation per endpoint, propagated through Spring Security context.
 
 `Java` `Spring Boot` `Spring Security` `React` `PostgreSQL` `JWT`
 
+[![Frontend](https://img.shields.io/badge/Frontend_Repository-20232A?style=flat&logo=github&logoColor=white)](https://github.com/IbanezCamilo/marginalia-web)
 ---
 
 ## Contact
