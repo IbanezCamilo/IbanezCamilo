@@ -36,7 +36,8 @@ Content publishing platform with JWT authentication, RBAC-based moderation workf
 
 `Java` `Spring Boot` `Spring Security` `React` `PostgreSQL` `JWT`
 
-[![Frontend](https://img.shields.io/badge/Frontend_Repository-20232A?style=flat&logo=github&logoColor=white)](https://github.com/IbanezCamilo/marginalia-web)
+[![Backend](https://img.shields.io/badge/Frontend_Repository-blue?logo=github)](https://github.com/IbanezCamilo/marginalia-web)
+[![Backend](https://img.shields.io/badge/Backend_Repository-green?logo=github)](https://github.com/IbanezCamilo/marginalia-api)
 ---
 
 ## Contact
