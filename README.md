@@ -1,11 +1,12 @@
 # Camilo Ibañez
-Backend Developer · Java/Spring Boot · Colombia
+Full Stack Developer · Java/Spring Boot · React · Colombia
 
 ---
 
-Backend-focused developer building secure web applications with Java/Spring Boot and React.
-Focused on authentication systems, RBAC authorization, and maintainable API architecture.
-Currently developing a content moderation platform with custom role and permission management.
+Full stack developer with backend focus — building secure APIs with Java/Spring Boot
+and consuming them with React. Specialized in authentication systems, RBAC authorization,
+and API architecture designed to scale.
+Currently shipping a content publishing platform with custom role and permission management.
 
 ---
 
