@@ -1,48 +1,65 @@
+<div align="center">
+
 # Camilo Ibañez
-Full Stack Developer · Java/Spring Boot · React · Colombia
 
----
+**Full-stack developer.** Java and Spring Boot on the back, React on the front.
 
-Full stack developer with backend focus — building secure APIs with Java/Spring Boot
-and consuming them with React. Specialized in authentication systems, RBAC authorization,
-and API architecture designed to scale.
-Currently shipping a content publishing platform with custom role and permission management.
+Colombia · [camilopastrana41@gmail.com](mailto:camilopastrana41@gmail.com) · [readmarginalia.net](https://readmarginalia.net)
 
----
+</div>
+
+<br>
+
+I build full-stack web applications and ensure they run smoothly in production. I care deeply about the details you can’t see in a screenshot: robust security, clean architecture, automated testing, and seamless database management.
+
+<br>
+
+## Featured work
+
+### Marginalia
+
+A literary publishing platform for Spanish-language writing, live at [readmarginalia.net](https://readmarginalia.net). Readers get a public site built around careful reading; writers get a role-gated panel with a rich-text editor, a draft/publish workflow, and moderation. Designed, built, deployed, and operated by me.
+
+<table>
+  <tr>
+    <td width="190" valign="top">
+      <a href="https://github.com/IbanezCamilo/marginalia-api"><b>marginalia-api</b></a>
+      <br><sub>Java 21 · Spring Boot 3.5 · PostgreSQL</sub>
+    </td>
+    <td valign="top">
+      REST API covering the full post lifecycle: accounts, publishing, moderation queue, and admin management over a five-level role hierarchy. Stateless auth with short-lived JWTs in HttpOnly cookies and refresh-token rotation, per-IP rate limiting, email verification, account lockout, and OWASP HTML sanitization. Flyway migrations, 59 test classes, CI on every push.
+    </td>
+  </tr>
+  <tr>
+    <td width="190" valign="top">
+      <a href="https://github.com/IbanezCamilo/marginalia-web"><b>marginalia-web</b></a>
+      <br><sub>React 19 · Vite · Tailwind CSS 4</sub>
+    </td>
+    <td valign="top">
+      Public reading site plus the authoring and admin panel. Feature-based architecture with a consistent service/hook data layer, a TipTap editor persisting ProseMirror JSON, optimistic status updates, and light/dark themes designed with equal intention. Tested with Vitest and Testing Library.
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
-**Backend**
+<table>
+  <tr>
+    <td width="190"><b>Backend</b></td>
+    <td>Java 21, Spring Boot 3, Spring Security, PostgreSQL, JPA/Hibernate, Flyway</td>
+  </tr>
+  <tr>
+    <td width="190"><b>Frontend</b></td>
+    <td>React 19, Vite, Tailwind CSS 4, React Router 7, TipTap</td>
+  </tr>
+  <tr>
+    <td width="190"><b>Operations</b></td>
+    <td>Docker, GitHub Actions, Cloudflare R2, JUnit, Vitest</td>
+  </tr>
+</table>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+<br>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-## Projects
-
-### Marginalia - Literary Blog *(in progress)*
-Content publishing platform with JWT authentication, RBAC-based moderation workflows, and protected API routes.
-
-`Java` `Spring Boot` `Spring Security` `React` `PostgreSQL` `JWT`
-
-[![Backend](https://img.shields.io/badge/Frontend_Repository-blue?logo=github)](https://github.com/IbanezCamilo/marginalia-web)
-[![Backend](https://img.shields.io/badge/Backend_Repository-green?logo=github)](https://github.com/IbanezCamilo/marginalia-api)
----
-
-## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilopastrana41@gmail.com)
-
-*Ship it, then improve it.*
+<div align="center">
+  <sub>Ship it, then improve it · <a href="mailto:camilopastrana41@gmail.com">camilopastrana41@gmail.com</a></sub>
+</div>
